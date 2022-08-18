@@ -1,16 +1,42 @@
-# volantisassignmenttoaditya
 
-A new Flutter project.
+# Volantis Assignment to Aditya
 
-## Getting Started
+the structure used is mvvm, this structure is useful for more efficient and effective development.
 
-This project is a starting point for a Flutter application.
+### MVVM
 
-A few resources to get you started if this is your first Flutter project:
+    .
+    ├── application             # app config static
+    ├── data                    # resource data from api/bluetooth/shared
+    ├── domain                  # bind data (alternative model data)
+    ├── presentation            # user interface / widget
+    ├── main.dart               
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Flutter Documentation
+
+[install](https://docs.flutter.dev/get-started/install) - How to install flutter
+
+
+## Demo
+
+link for download the apps
+[volastis assignment to aditya](https://github.com/DityaDeveloper/volantisassignment/blob/main/build-release/volantisassignment_to_aditya.apk)
+
+
+## Tech Stack
+
+**Client:** Flutter, Riverpod, Http, Intl, Geocoding, Location 
+
+**Server:** Firebase
+
+
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/qCDJPNj/ss1png.jpg)
+![App Screenshot](https://i.ibb.co/Y0nbMtn/ss2.jpg)
+
+## Authors
+
+- [@dityadeveloper](https://www.github.com/dityadeveloper)
+
