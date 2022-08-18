@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248391336722",
+    "project_id": "testing-d5ad0",
+    "storage_bucket": "testing-d5ad0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248391336722:android:67bd6dbcf28fc1d49969cb",
+        "android_client_info": {
+          "package_name": "com.example.volantisassignmenttoaditya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248391336722-gqjfb38ccdj2i6qauenmpmghrb023taa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6TbkRVJLL4xshqkmzi0TyCnV0kViMqlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248391336722-gqjfb38ccdj2i6qauenmpmghrb023taa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
