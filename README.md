@@ -35,6 +35,7 @@ link for download the apps
 
 ![App Screenshot](https://i.ibb.co/qCDJPNj/ss1png.jpg)
 ![App Screenshot](https://i.ibb.co/Y0nbMtn/ss2.jpg)
+![App Screenshot](https://i.ibb.co/tqQcwCb/ss3.jpg)
 
 ## Authors
 
